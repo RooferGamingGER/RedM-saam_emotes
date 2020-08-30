@@ -8,7 +8,7 @@
         \/_____/   \/_/\/_/   \/_/\/_/   \/_/  \/_/  \/_/   \/_____/   \/_/\/_/   \/_____/ 
  
         
-NOTE: If you want your animations to end instantly when the Key i pressed simply add "Immediately" after "ClearPedTasks" (im ROW 43), turning it into "ClearPedTasksImmediately"
+NOTE: If you want your animations to not end instantly when the Key i pressed simply remove "Immediately" from "ClearPedTasksImmidiately" (im ROW 43), turning it into "ClearPedTasks"
 NOTE2: If you want to change the cancel key replace The default hash "0xD9D0E1C0" (in ROW 41) with the one you want, here's a list "https://github.com/femga/rdr3_discoveries/tree/master/Controls" 
 
 ]]--
@@ -40,7 +40,7 @@ Citizen.CreateThread(function()
             if 
                 IsControlPressed(1, 0xD9D0E1C0)
             then
-                ClearPedTasks(player);
+                ClearPedTasksImmidiately(player);
                 status = false
             end
         end
