@@ -1,31 +1,31 @@
 
 
-#      ______     ______     ______     __    __           ______     __  __     ______               
-#     /\  ___\   /\  __ \   /\  __ \   /\ "-./  \         /\  ___\   /\_\_\_\   /\  ___\            
-#     \ \___  \  \ \  __ \  \ \  __ \  \ \ \-./\ \    __  \ \  __\   \/_/\_\/_  \ \  __\   
-#      \/\_____\  \ \_\ \_\  \ \_\ \_\  \ \_\ \ \_\  /\_\  \ \_____\   /\_\/\_\  \ \_____\ 
-#       \/_____/   \/_/\/_/   \/_/\/_/   \/_/  \/_/  \/_/   \/_____/   \/_/\/_/   \/_____/ 
-#
+      ______     ______     ______     __    __           ______     __  __     ______               
+     /\  ___\   /\  __ \   /\  __ \   /\ "-./  \         /\  ___\   /\_\_\_\   /\  ___\            
+     \ \___  \  \ \  __ \  \ \  __ \  \ \ \-./\ \    __  \ \  __\   \/_/\_\/_  \ \  __\   
+      \/\_____\  \ \_\ \_\  \ \_\ \_\  \ \_\ \ \_\  /\_\  \ \_____\   /\_\/\_\  \ \_____\ 
+       \/_____/   \/_/\/_/   \/_/\/_/   \/_/  \/_/  \/_/   \/_____/   \/_/\/_/   \/_____/ 
 
-Made by Saam.exe, ()
+
+Made by Saam.exe, (https://github.com/saamdotexe)
 based on Jeva's simple emote command for fivem (https://github.com/jevajs/Jeva/tree/master/FiveM%20-%20Emotes%20(Tasks%20and%20Ped%20Scenarios)/emotes)
-# IMPORTANT: Please note that this is my very first script for RedM (even Fivem tbh), it's not polished, it works well but it's not perfect. As i learn more things this will receive updates.
+IMPORTANT: Please note that this is my very first script for RedM (even Fivem tbh), it's not polished, it works well but it's not perfect. As i learn more things this will receive updates.
 
 
-# ▂▃▅▇█▓▒░  INSTALLATION  ░▒▓█▇▅▃▂
+## ▂▃▅▇█▓▒░  INSTALLATION  ░▒▓█▇▅▃▂
 
 1) - Put the folder "saam_emotes" into your server resource folder.
 2) - Add "start saam_emotes" to your server.cfg file
 
 
-# ▂▃▅▇█▓▒░     USAGE      ░▒▓█▇▅▃▂
+## ▂▃▅▇█▓▒░     USAGE      ░▒▓█▇▅▃▂
 
 Default command is /e [emotename]
 Default key for cancelling emote is [SPACEBAR]
 If you wish to change something feel free to do it, head to "main.lua" and edit as you wish, there are some basic instruction there *thumbs up*.
 
 
-# ▂▃▅▇█▓▒░   EMOTE LIST   ░▒▓█▇▅▃▂
+## ▂▃▅▇█▓▒░   EMOTE LIST   ░▒▓█▇▅▃▂
 
 smoke2
 smoke2 
